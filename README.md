@@ -19,8 +19,8 @@ Usage guide:
 4. It should ask for details of the employment. Respond accordingly. 
 
 Contributors:
-Emma Hope Ong\n
-Gurugubelli Rashini Das
+Emma Hope Ong,
+Gurugubelli Rashini Das,
 Gavin Ng Kar Swee
 
 Limitations: we do not have access to a GPU and was unable to train the AI model with too large of a document. 
