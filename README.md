@@ -1,7 +1,7 @@
 This project is an AI powered chatbot that aims to make employment contract creation accessible to people who are not profecient in English and creating contracts that are easy to understand. 
 
 Steps for setup:
-1. In watsonx.py, initialise the following variables (line 37-40):
+1. In src/watsonx.py, initialise the following variables (line 37-40):
     1. project_id 
     2. api_key
     3. access_token
