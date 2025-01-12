@@ -19,7 +19,7 @@ Usage guide:
 4. It should ask for details of the employment. Respond accordingly. 
 
 Contributors:
-Emma Hope Ong
+Emma Hope Ong\n
 Gurugubelli Rashini Das
 Gavin Ng Kar Swee
 
